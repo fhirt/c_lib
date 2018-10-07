@@ -1,5 +1,5 @@
-#ifndfef COMMON_HDR_H
-#definie COMMON_HDR_H
+#ifndef COMMON_HDR_H
+#define COMMON_HDR_H
 
 #include <sys/types.h>
 #include <stdio.h>
